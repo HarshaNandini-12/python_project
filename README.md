@@ -19,7 +19,7 @@ Marks → Grade points (90+=10, 80+=9, etc.)
 How to run
 bash
 pip install streamlit
-streamlit run app.py
+streamlit run cgpa_app.py
 
 
 
